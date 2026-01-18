@@ -1,1 +1,1 @@
-SmartNewsのレポートをBQに流し込むテストだよ
+SmartNewsのレポートをBQに流し込むシステムだよん
